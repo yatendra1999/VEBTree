@@ -166,6 +166,9 @@ public class VEBTree
 				node.max = index(node, highOfX, node.cluster[highOfX].max);
 			}
 		}
+		else{
+			System.out.println("LOL");
+		}
 	}
 	
 	
