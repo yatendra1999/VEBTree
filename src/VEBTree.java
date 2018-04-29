@@ -122,8 +122,9 @@ public class VEBTree
 		{
 			node.min = NULL;
 			node.max = NULL;
+			return;
 		}
-		else if(BASE_SIZE == node.universeSize)
+	    if(BASE_SIZE == node.universeSize)
 		{
 			if(0 == x)
 			{
@@ -134,40 +135,36 @@ public class VEBTree
 				node.min = 0;
 			}
 			node.max = node.min;
+			return;
 		}
-		else if(x == node.min)
-		{
+		if(x == node.min) {
 			int summaryMin = node.summary.min;
 			x = index(node, summaryMin, node.cluster[summaryMin].min);
 			node.min = x;
-			
-			int highOfX = high(node, x);
-			int lowOfX = low(node, x);
-			deleteR(node.cluster[highOfX], lowOfX);
-			
-			if(NULL == node.cluster[highOfX].min)
+		}
+		int highOfX = high(node, x);
+		int lowOfX = low(node, x);
+		deleteR(node.cluster[highOfX], lowOfX);
+
+		if(NULL == node.cluster[highOfX].min)
+		{
+			deleteR(node.summary, highOfX);
+			if(x == node.max)
 			{
-				deleteR(node.summary, highOfX);
-				if(x == node.max)
+				int summaryMax = node.summary.max;
+				if(NULL == summaryMax)
 				{
-					int summaryMax = node.summary.max;
-					if(NULL == summaryMax)
-					{
-						node.max = node.min;
-					}
-					else
-					{
-						node.max = index(node, summaryMax, node.cluster[summaryMax].max);
-					}
+					node.max = node.min;
+				}
+				else
+				{
+					node.max = index(node, summaryMax, node.cluster[summaryMax].max);
 				}
 			}
-			else if(x == node.max)
-			{
-				node.max = index(node, highOfX, node.cluster[highOfX].max);
-			}
 		}
-		else{
-			System.out.println("LOL");
+		else if(x == node.max)
+		{
+			node.max = index(node, highOfX, node.cluster[highOfX].max);
 		}
 	}
 	
