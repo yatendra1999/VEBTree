@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/VEBTreeTest.java" line="0" />
-    <bookmark url="file://$PROJECT_DIR$/src/VEBTreeTest.java" line="74" />
+    <bookmark url="file://$PROJECT_DIR$/src/VEBTreeTest.java" line="5" />
+    <bookmark url="file://$PROJECT_DIR$/src/VEBTreeTest.java" line="90" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="228d9635-d5f0-40de-a528-cb94dcb85ce2" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/VEBT/VEBTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VEBT/VEBTree.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/VEBT/VEBTreeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VEBT/VEBTreeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VEBT/input.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/VEBTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VEBTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VEBTreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VEBTreeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/input.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,8 +28,30 @@
       <file leaf-file-name="VEBTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/VEBTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="144" column="8" selection-start-line="144" selection-start-column="8" selection-end-line="144" selection-end-column="8" />
+            <state relative-caret-position="306">
+              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+              <folding>
+                <element signature="e#638#639#0" expanded="true" />
+                <element signature="e#661#662#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BST.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="44" selection-start-line="44" selection-end-line="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -33,8 +59,8 @@
       <file leaf-file-name="VEBTreeTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/VEBTreeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="41" column="48" lean-forward="true" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
+            <state relative-caret-position="340">
+              <caret line="118" column="38" lean-forward="true" selection-start-line="118" selection-start-column="38" selection-end-line="118" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -42,11 +68,20 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="VEBTreeTest2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/VEBTreeTest2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="39" column="31" lean-forward="true" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="VEBNode.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/VEBNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+            <state relative-caret-position="204">
+              <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -63,6 +98,14 @@
         <option value="$PROJECT_DIR$/src/vEBTree.java" />
         <option value="$PROJECT_DIR$/src/VEBNode.java" />
         <option value="$PROJECT_DIR$/src/VEBTree.java" />
+        <option value="$PROJECT_DIR$/src/AVLNode.java" />
+        <option value="$PROJECT_DIR$/src/AVLTree.java" />
+        <option value="$PROJECT_DIR$/src/BSTree.java" />
+        <option value="$PROJECT_DIR$/src/DeleteNodeInBST.java" />
+        <option value="$PROJECT_DIR$/src/InorderPredecessor.java" />
+        <option value="$PROJECT_DIR$/src/BSNode.java" />
+        <option value="$PROJECT_DIR$/src/BST.java" />
+        <option value="$PROJECT_DIR$/src/VEBTreeTest2.java" />
         <option value="$PROJECT_DIR$/src/VEBTreeTest.java" />
       </list>
     </option>
@@ -82,20 +125,20 @@
         <subPane>
           <expand>
             <path>
-              <item name="VEBT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VEBT" type="462c0819:PsiDirectoryNode" />
+              <item name="VEBTree" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VEBTree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="VEBT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VEBT" type="462c0819:PsiDirectoryNode" />
+              <item name="VEBTree" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VEBTree" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -117,9 +160,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.VEBTreeTest">
     <configuration name="VEBTreeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="VEBTreeTest" />
+      <module name="VEBT" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="VEBTreeTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VEBTreeTest2" />
       <module name="VEBT" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -164,9 +212,14 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Application.VEBTreeTest" />
+      <item itemvalue="Application.VEBTreeTest2" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.VEBTreeTest" />
+        <item itemvalue="Application.VEBTreeTest2" />
       </list>
     </recent_temporary>
   </component>
@@ -187,45 +240,45 @@
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3290938" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Messages" order="6" weight="0.32884902" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30941704" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="right" id="Run" order="5" weight="0.38579795" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10248902" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
       <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.3290938" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.24963397" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="5" />
       <window_info id="Designer" order="0" />
-      <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="right" id="Palette&#9;" order="0" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Messages" order="3" weight="0.3290938" />
       <window_info anchor="right" id="Maven Projects" order="1" />
       <window_info id="Favorites" order="1" side_tool="true" />
@@ -235,6 +288,34 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/VEBTreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="63" column="59" selection-start-line="63" selection-start-column="59" selection-end-line="63" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VEBTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2448">
+          <caret line="144" column="8" selection-start-line="144" selection-start-column="8" selection-end-line="144" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VEBNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VEBTreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="48" lean-forward="true" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/VEBTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2873">
@@ -253,9 +334,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -277,9 +355,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -301,9 +376,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -318,9 +390,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -342,9 +411,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -373,9 +439,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="884">
           <caret line="52" column="40" lean-forward="true" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -397,9 +460,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -421,9 +481,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -445,9 +502,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -469,9 +523,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -493,9 +544,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="31" column="40" lean-forward="true" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -517,30 +565,57 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AVLNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/AVLTree.java" />
+    <entry file="file://$PROJECT_DIR$/src/DeleteNodeInBST.java" />
+    <entry file="file://$PROJECT_DIR$/src/BSNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/InorderPredecessor.java" />
+    <entry file="file://$PROJECT_DIR$/src/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/VEBNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        <state relative-caret-position="204">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/VEBTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="144" column="8" selection-start-line="144" selection-start-column="8" selection-end-line="144" selection-end-column="8" />
+        <state relative-caret-position="306">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <element signature="e#638#639#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VEBTreeTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="39" column="31" lean-forward="true" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/VEBTreeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="41" column="48" lean-forward="true" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
+        <state relative-caret-position="340">
+          <caret line="118" column="38" lean-forward="true" selection-start-line="118" selection-start-column="38" selection-end-line="118" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

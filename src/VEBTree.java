@@ -24,7 +24,7 @@ public class VEBTree
 	// Insert x into the tree.
 	public void insert(int x)
 	{
-		System.out.print("Inserting into the VEM tree\n");insertR(root, x);
+		insertR(root, x);
 	}
 	
 	
